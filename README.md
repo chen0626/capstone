@@ -1,2 +1,4 @@
 # capstone
-section 301 group 6
+Section 301 
+Group 6: Muzhen Chen, Run Wen
+
