@@ -45,7 +45,7 @@
             <div class="col-md-6">
                 <div class="bc p-5 rounded-lg shadow-lg">
                     <h2 class="mb-3 text-3xl font-semibold text-gray-800">Welcome to RescuePaws:</h2>
-                    <h4 class="mb-3 text-3xl font-semibold text-gray-800">Making a Difference One Paw at a Time</h4>
+                    <h5 class="mb-3 text-3xl font-semibold text-gray-800">Making a Difference One Paw at a Time</h5>
                 
                     <p class="mb-4 text-gray-700">
                         At RescuePaws, we're on a mission to transform the lives of stray animals and ensure they receive the love, care, and support they deserve. Our platform brings together compassionate individuals like you who want to make a positive impact on the lives of these innocent creatures.
@@ -69,7 +69,7 @@
         </div>
     </div>
 
-    <!-- Bootstrap JS (optional) -->
+    <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
