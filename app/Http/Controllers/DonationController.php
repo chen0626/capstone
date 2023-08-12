@@ -13,6 +13,7 @@ class DonationController extends Controller
         return view('donation', ['animal' => $animal]);
     }
 
+
     public function store(Request $request)
     {
         $request->validate([
